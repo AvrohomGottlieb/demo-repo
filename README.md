@@ -4,4 +4,8 @@ Some description!
 
 ## Subheader
 
-More text below the subheader.
+More text here below the subheader.
+
+## Local Development
+
+1. Open index.html in your browser.
